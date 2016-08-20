@@ -8,10 +8,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jekyll Example
-tagline:             Basic example of a Jekyll site with Sass enabled.
-url:                 http://mdo.github.io/jekyll-example
-baseurl:             /jekyll-example/
+title:               Make Burning Man Great Again
+tagline:             I'm here for you.
+url:                 http://jesterman.github.io/MBGA
+baseurl:             /MBGA/
 
 # Assets
 #
